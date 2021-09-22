@@ -1,0 +1,227 @@
+User-Agent: Googlebot
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+User-agent: Googlebot-Image
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+User-agent: YandexBot
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+User-agent: YandexImages
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+User-agent: Bingbot
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+User-agent: Applebot
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+
+User-agent: Twitterbot
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+
+User-agent: ia_archiver
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+
+User-agent: msnbot
+Disallow: /css/
+Disallow: /general/
+Disallow: /js/
+Disallow: /power/
+Disallow: /wp-content/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /*.txt$
+Disallow: /*.png$
+Disallow: /*.jpg$
+Disallow: /tkpan/
+Disallow: /yimg/
+Disallow: /data/
+Disallow: /login/
+Disallow: /yardim
+
+
+
+
+User-agent: Googlebot
+Allow: /anasayfa.php
+Allow: /kategoriler.php
+Allow: /kategori-icerik.php
+Disallow: /
+
+User-agent: Applebot
+Allow: /anasayfa.php
+Allow: /kategoriler.php
+Allow: /kategori-icerik.php
+Disallow: /
+
+User-agent: Yandex
+Allow: /anasayfa.php
+Allow: /kategoriler.php
+Allow: /kategori-icerik.php
+Disallow: /
+
+User-agent: Bingbot
+Allow: /anasayfa.php
+Allow: /kategoriler.php
+Allow: /kategori-icerik.php
+Disallow: /
+
+User-agent: msnbot
+Allow: /anasayfa.php
+Allow: /kategoriler.php
+Allow: /kategori-icerik.php
+Disallow: /
+
+User-agent: Twitterbot
+Allow: /anasayfa.php
+Allow: /kategoriler.php
+Allow: /kategori-icerik.php
+Disallow: /
+
+User-agent: ia_archiver
+Allow: /anasayfa.php
+Allow: /kategoriler.php
+Allow: /kategori-icerik.php
+Disallow: /
+
+
+User-agent: * Disallow: /
+Crawl-delay: 30
+
+
+
+
+
+
